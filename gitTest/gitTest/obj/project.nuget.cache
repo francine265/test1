@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "GMpiMQfF2AVS76uzDDnCTCcjUgrPeUF7uAACr/L/j90Hp2RKcRwWs9Vo0UEv8+iyHn0Kd2RNTY7qRfWdt9bYbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\francinematho\\source\\repos\\test1\\gitTest\\gitTest\\gitTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\francinematho\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.22000.194\\microsoft.windows.sdk.buildtools.10.0.22000.194.nupkg.sha512",
+    "C:\\Users\\francinematho\\.nuget\\packages\\microsoft.windowsappsdk\\1.1.3\\microsoft.windowsappsdk.1.1.3.nupkg.sha512",
+    "C:\\Users\\francinematho\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.8\\microsoft.netcore.app.runtime.win-x64.6.0.8.nupkg.sha512",
+    "C:\\Users\\francinematho\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.8\\microsoft.aspnetcore.app.runtime.win-x64.6.0.8.nupkg.sha512",
+    "C:\\Users\\francinematho\\.nuget\\packages\\microsoft.netcore.app.runtime.win-arm64\\6.0.8\\microsoft.netcore.app.runtime.win-arm64.6.0.8.nupkg.sha512",
+    "C:\\Users\\francinematho\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.8\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.8.nupkg.sha512",
+    "C:\\Users\\francinematho\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.26\\microsoft.windows.sdk.net.ref.10.0.19041.26.nupkg.sha512",
+    "C:\\Users\\francinematho\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-arm64\\6.0.8\\microsoft.aspnetcore.app.runtime.win-arm64.6.0.8.nupkg.sha512",
+    "C:\\Users\\francinematho\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.8\\microsoft.netcore.app.runtime.win-x86.6.0.8.nupkg.sha512",
+    "C:\\Users\\francinematho\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-arm64\\6.0.8\\microsoft.windowsdesktop.app.runtime.win-arm64.6.0.8.nupkg.sha512",
+    "C:\\Users\\francinematho\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.8\\microsoft.aspnetcore.app.runtime.win-x86.6.0.8.nupkg.sha512",
+    "C:\\Users\\francinematho\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.8\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

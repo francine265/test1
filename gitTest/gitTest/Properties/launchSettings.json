@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "gitTest (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "gitTest (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
